@@ -1,0 +1,28 @@
+name: André Hanauer
+favicon: null
+layout_spectrum: 0.9648321287240833
+typography_spectrum: 0.48373833973892033
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5427918923087418
+  lightness: 0.456959126284346
+  saturation: 0.08926185593008995
+  rhythmicContrast: 0.9681393147911876
+purpose: []
